@@ -128,12 +128,3 @@ This simulator is intended for **algorithm and protocol validation** in wireless
 It is **not platform-specific** and does not emulate code compiled for sensor hardware.
 
 ---
-
-## 📚 Resources
-
-* [OMNeT++ Documentation](https://omnetpp.org)
-* [Castalia Forum](https://groups.google.com/forum/#!forum/castalia-simulator)
-
-```
-
----
